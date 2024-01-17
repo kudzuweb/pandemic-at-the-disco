@@ -16,7 +16,7 @@ date,track,artist
 2019-01-05,ZEZE,Kodak Black  Travis Scott   Offset
 2019-01-05,Rudolph The Red-Nosed Reindeer,Gene Autry
 2019-01-05,Mo Bamba,Sheck Wes
-2019-01-05,Wake Up In The Sky,Gucci Mane x Bruno Mars x Kodak Black
+2019-01-05,Wake Up In The Sky,Gucci Mane Bruno Mars Kodak Black
 2019-01-05,Money,Cardi B
 2019-01-05,Let It Snow  Let It Snow  Let It Snow,Dean Martin
 2019-01-05,Eastside,Benny Blanco  Halsey   Khalid
@@ -58,7 +58,7 @@ date,track,artist
 2019-01-05,Swervin,A Boogie Wit da Hoodie  6ix9ine
 2019-01-05,Can t Leave Without It,21 Savage
 2019-01-05,You Say,Lauren Daigle
-2019-01-05,Close To Me,Ellie Goulding X Diplo  Swae Lee
+2019-01-05,Close To Me,Ellie Goulding Diplo  Swae Lee
 2019-01-05,Best Shot,Jimmie Allen
 2019-01-05,Dangerous,Meek Mill  Jeremih   PnB Rock
 2019-01-05,Be Alright,Dean Lewis
@@ -75,7 +75,7 @@ date,track,artist
 2019-01-05,Calling My Spirit,Kodak Black
 2019-01-05,Consequences,Camila Cabello
 2019-01-05,Armed and Dangerous,Juice WRLD
-2019-01-05,Arms Around You,XXXTENTACION x Lil Pump  Maluma   Swae Lee
+2019-01-05,Arms Around You,XXXTENTACION Lil Pump  Maluma   Swae Lee
 2019-01-05,Nothing Breaks Like A Heart,Mark Ronson  Miley Cyrus
 2019-01-05,Sixteen,Thomas Rhett
 2019-01-05,Burning Man,Dierks Bentley  Brothers Osborne
@@ -97,10 +97,10 @@ date,track,artist
 2019-01-05,Last Shot,Kip Moore
 2019-01-05,Fine China,Future   Juice WRLD
 2019-01-05,Envy Me,Calboy
-2019-01-05,Lost In Japan,Shawn Mendes X Zedd
+2019-01-05,Lost In Japan,Shawn Mendes Zedd
 2019-01-05,This Is It,Scotty McCreery
 2019-01-12,Baby Shark,Pinkfong
-2019-01-12,Electricity,Silk City x Dua Lipa
+2019-01-12,Electricity,Silk City Dua Lipa
 2019-01-12,Smile  Living My Best Life,Lil  Duval  Snoop Dogg   Ball Greezy
 2019-01-12,Millionaire,Chris Stapleton
 2019-01-12,Pure Cocaine,Lil Baby
@@ -200,7 +200,7 @@ date,track,artist
 2019-03-09,3 Headed Snake,Gunna  Young Thug
 2019-03-09,Wit It,Gunna
 2019-03-09,Lick,Offset
-2019-03-09,Girls Need Love,Summer Walker X Drake
+2019-03-09,Girls Need Love,Summer Walker Drake
 2019-03-09,Speed It Up,Gunna
 2019-03-09,I Guess I Just Feel Like,John Mayer
 2019-03-09,Good As You,Kane Brown
@@ -214,7 +214,7 @@ date,track,artist
 2019-03-16,Wish You Were Gay,Billie Eilish
 2019-03-16,Whip,2 Chainz  Travis Scott
 2019-03-16,Act Up,City Girls
-2019-03-16,Old Town Road,Lil Nas X  Billy Ray Cyrus
+2019-03-16,Old Town Road,Lil Nas  Billy Ray Cyrus
 2019-03-16,Whiskey Glasses,Morgan Wallen
 2019-03-16,I Can t Get Enough,Benny Blanco  Tainy  Selena Gomez   J Balvin
 2019-03-16,Rule The World,2 Chainz  Ariana Grande
@@ -227,7 +227,7 @@ date,track,artist
 2019-03-23,Undrunk,FLETCHER
 2019-03-23,Rumor,Lee Brice
 2019-03-23,Flaws and Sins,Juice WRLD
-2019-03-23,Calma,Pedro Capo X Farruko
+2019-03-23,Calma,Pedro Capo Farruko
 2019-03-23,I ve Been Waiting,Lil Peep   iLoveMakonnen  Fall Out Boy
 2019-03-30,Numb Numb Juice,ScHoolboy Q
 2019-03-30,Sally Walker,Iggy Azalea
@@ -257,7 +257,7 @@ date,track,artist
 2019-04-20,Cool,Jonas Brothers
 2019-04-20,Kill This Love,BLACKPINK
 2019-04-20,Outta My Head,Khalid With John Mayer
-2019-04-20,Don t Pretend,Khalid x SAFE
+2019-04-20,Don t Pretend,Khalid SAFE
 2019-04-20,Bad Luck,Khalid
 2019-04-20,Right Back,Khalid  A Boogie Wit da Hoodie
 2019-04-20,Inmortal,Aventura
@@ -274,10 +274,11 @@ date,track,artist
 2019-05-04,Earth,Lil Dicky
 2019-05-04,Before I Let Go,Beyonce
 2019-05-04,Slide,French Montana  Blueface   Lil Tjay
+2019-05-04,Love Someone,Brett Eldredge
 2019-05-04,Shotta Flow,NLE Choppa
 2019-05-04,ME,Taylor Swift  Brendon Urie
 2019-05-11,Floating,ScHoolboy Q  21 Savage
-2019-05-11,Baila Baila Baila,Ozuna x Daddy Yankee x J Balvin x Farruko x Anuel AA
+2019-05-11,Baila Baila Baila,Ozuna Daddy Yankee J Balvin Farruko Anuel AA
 2019-05-11,CHopstix,ScHoolboy Q   Travis Scott
 2019-05-11,Light It Up,Marshmello  Tyga   Chris Brown
 2019-05-11,Power Is Power,SZA  The Weeknd   Travis Scott
@@ -290,6 +291,7 @@ date,track,artist
 2019-05-18,Truth Hurts,Lizzo
 2019-05-18,Beer Never Broke My Heart,Luke Combs
 2019-05-18,Go Loko,YG  Tyga   Jon Z
+2019-05-18,Middle Child,PnB Rock   XXXTENTACION
 2019-05-18,All To Myself,Dan   Shay
 2019-05-18,Paradise,Bazzi
 2019-05-18,Die Young,Roddy Ricch
@@ -297,7 +299,7 @@ date,track,artist
 2019-05-25,Triggered,Jhene Aiko
 2019-05-25,Soltera,Lunay  Daddy Yankee   Bad Bunny
 2019-05-25,Someone You Loved,Lewis Capaldi
-2019-05-25,Te Robare,Nicky Jam X Ozuna
+2019-05-25,Te Robare,Nicky Jam Ozuna
 2019-05-25,Juice,Lizzo
 2019-06-01,Earfquake,Tyler  The Creator
 2019-06-01,Nightmare,Halsey
@@ -358,13 +360,13 @@ date,track,artist
 2019-07-06,Senorita,Shawn Mendes   Camila Cabello
 2019-07-06,Panini,Lil Nas X
 2019-07-06,MEGATRON,Nicki Minaj
-2019-07-06,Rodeo,Lil Nas X   Cardi B
+2019-07-06,Rodeo,Lil Nas   Cardi B
 2019-07-06,One Thing Right,Marshmello   Kane Brown
 2019-07-06,Out The Mud,Lil Baby  Future
 2019-07-06,Cash Shit,Megan Thee Stallion  DaBaby
 2019-07-06,Summer Days,Martin Garrix  Macklemore   Patrick Stump
 2019-07-13,Beautiful People,Ed Sheeran  Khalid
-2019-07-13,Higher Love,Kygo X Whitney Houston
+2019-07-13,Higher Love,Kygo Whitney Houston
 2019-07-13,Que Pretendes,J Balvin   Bad Bunny
 2019-07-13,Don t Check On Me,Chris Brown  Justin Bieber   Ink
 2019-07-13,When I Grow Up,NF
@@ -399,6 +401,7 @@ date,track,artist
 2019-08-10,Single Again,Big Sean
 2019-08-10,Takeaway,The Chainsmokers   Illenium  Lennon Stella
 2019-08-10,Living,Dierks Bentley
+2019-08-10,Leave Me Alone,NF
 2019-08-10,Daddy,Blueface   Rich The Kid
 2019-08-10,All Day Long,Chance The Rapper  John Legend
 2019-08-10,Do You Remember,Chance The Rapper  Death Cab For Cutie
@@ -436,6 +439,7 @@ date,track,artist
 2019-08-31,Sup Mate,Young Thug  Future
 2019-08-31,Won t Be Late,Swae Lee  Drake
 2019-08-31,Heartless,Diplo Presents Thomas Wesley  Morgan Wallen
+2019-08-31,Light It Up,Young Thug
 2019-08-31,Juicy,Doja Cat   Tyga
 2019-08-31,Lil Baby,Young Thug
 2019-08-31,Ecstasy,Young Thug  Machine Gun Kelly
@@ -499,7 +503,7 @@ date,track,artist
 2019-10-05,INTRO,DaBaby
 2019-10-05,Memories,Maroon 5
 2019-10-05,Adicto,Tainy  Anuel AA   Ozuna
-2019-10-05,Stuck In A Dream,Lil Mosey x Gunna
+2019-10-05,Stuck In A Dream,Lil Mosey Gunna
 2019-10-05,Loco Contigo,DJ Snake  J. Balvin   Tyga
 2019-10-12,BOP,DaBaby
 2019-10-12,VIBEZ,DaBaby
@@ -523,6 +527,7 @@ date,track,artist
 2019-10-19,Come Thru,Summer Walker   Usher
 2019-10-19,I ll Kill You,Summer Walker  Jhene Aiko
 2019-10-19,Stretch You Out,Summer Walker  A Boogie Wit da Hoodie
+2019-10-19,Body,Summer Walker
 2019-10-19,Drunk Dialing...LODT,Summer Walker
 2019-10-19,Over It,Summer Walker
 2019-10-19,Nice To Meet Ya,Niall Horan
@@ -535,7 +540,7 @@ date,track,artist
 2019-10-26,Carter Son,YoungBoy Never Broke Again
 2019-10-26,Kinfolks,Sam Hunt
 2019-10-26,Hot Now,YoungBoy Never Broke Again
-2019-10-26,All Dat,Moneybagg Yo X Megan Thee Stallon
+2019-10-26,All Dat,Moneybagg Yo Megan Thee Stallon
 2019-10-26,In Control,YoungBoy Never Broke Again
 2019-10-26,Time I m On,YoungBoy Never Broke Again
 2019-10-26,Rich As Hell,YoungBoy Never Broke Again
@@ -587,15 +592,18 @@ date,track,artist
 2019-11-30,Homesick,Kane Brown
 2019-11-30,Death,Trippie Redd  DaBaby
 2019-11-30,Hell Right,Blake Shelton  Trace Adkins
-2019-11-30,RITMO  Bad Boys For Life,The Black Eyed Peas X J Balvin
+2019-11-30,RITMO  Bad Boys For Life,The Black Eyed Peas J Balvin
+2019-12-07,Heartless,The Weeknd
 2019-12-07,Vete,Bad Bunny
 2019-12-07,Into The Unknown,Idina Menzel   AURORA
 2019-12-07,Who Needs Love,Trippie Redd
 2019-12-07,6 Kiss,Trippie Redd  Juice WRLD   YNW Melly
 2019-12-07,Loyal,PARTYNEXTDOOR  Drake
 2019-12-07,Suicidal,YNW Melly
+2019-12-07,Hate Me,Trippie Redd  YoungBoy Never Broke Again
 2019-12-07,Candy,Doja Cat
 2019-12-07,Cuban Links,Rod Wave   Kevin Gates
+2019-12-07,Into The Unknown,Panic  At The Disco
 2019-12-07,Show Yourself,Idina Menzel   Evan Rachel Wood
 2019-12-14,Blinding Lights,The Weeknd
 2019-12-14,Happy Holiday   The Holiday Season,Andy Williams
@@ -613,6 +621,7 @@ date,track,artist
 2019-12-21,Big Stepper,Roddy Ricch
 2019-12-21,BEST ON EARTH,Russ   BIA
 2019-12-28,Futsal Shuffle 2020,Lil Uzi Vert
+2019-12-28,Falling,Harry Styles
 2019-12-28,Dirty Iyanna,YoungBoy Never Broke Again
 2019-12-28,Let Me Know  I Wonder Why Freestyle,Juice WRLD
 2019-12-28,Nobody But You,Blake Shelton Duet With Gwen Stefani
@@ -620,9 +629,14 @@ date,track,artist
 2019-12-28,Cherry,Harry Styles
 2019-12-28,Golden,Harry Styles
 2019-12-28,She,Harry Styles
+2020-01-04,Ballin,Mustard   Roddy Ricch
 2020-01-04,Everything I Wanted,Billie Eilish
 2020-01-04,Baby It s Cold Outside,Dean Martin
-2020-01-04,You re A Mean One  Mr. Grinch,Thurl Ravenscroft
+2020-01-04,You re A Mean One    Grinch,Thurl Ravenscroft
+2020-01-04,Suicidal,YNW Melly   Juice WRLD
+2020-01-04,Happy Xmas  War Is Over,John Legend
+2020-01-04,Slide,H.E.R.  YG
+2020-01-04,RITMO  Bad Boys For Life,Black Eyed Peas J Balvin
 2020-01-11,Out West,JACKBOYS  Young Thug
 2020-01-11,GANG GANG,JACKBOYS   Sheck Wes
 2020-01-11,HAD ENOUGH,Don Toliver  Quavo   Offset
@@ -643,6 +657,7 @@ date,track,artist
 2020-01-18,20 20,Lil Tjay
 2020-01-18,Say So,Doja Cat  Nicki Minaj
 2020-01-18,ORANGE SODA,Baby Keem
+2020-01-18,All Dat,Moneybagg Yo Megan Thee Stallion
 2020-01-25,Life Is Good,Future  Drake
 2020-01-25,Sum 2 Prove,Lil Baby
 2020-01-25,Good News,Mac Miller
@@ -657,7 +672,8 @@ date,track,artist
 2020-02-01,Those Kinda Nights,Eminem  Ed Sheeran
 2020-02-01,Unaccommodating,Eminem  Young M.A
 2020-02-01,Blue World,Mac Miller
-2020-02-01,You Gon  Learn,Eminem  Royce da 5 9%22   White Gold
+2020-02-01,Circles,Mac Miller
+2020-02-01,You Gon  Learn,Eminem  Royce da 5 9    White Gold
 2020-02-01,Black Swan,BTS
 2020-02-01,P $$y Fairy  OTW,Jhene Aiko
 2020-02-01,Leaving Heaven,Eminem  Skylar Grey
@@ -671,6 +687,7 @@ date,track,artist
 2020-02-01,Marsh,Eminem
 2020-02-01,No Regrets,Eminem  Don Toliver
 2020-02-01,Lock It Up,Eminem  Anderson .Paak
+2020-02-01,Surf,Mac Miller
 2020-02-01,Stepdad,Eminem
 2020-02-01,That s On Me,Mac Miller
 2020-02-08,B.I.T.C.H.,Megan Thee Stallion
@@ -691,12 +708,14 @@ date,track,artist
 2020-02-15,King Of My City,A Boogie Wit da Hoodie
 2020-02-15,Mama Mia,Lil Wayne
 2020-02-15,Funeral,Lil Wayne
+2020-02-15,Nice To Meet Ya,Meghan Trainor  Nicki Minaj
 2020-02-15,Get Me,Justin Bieber  Kehlani
 2020-02-22,Intentions,Justin Bieber  Quavo
 2020-02-22,Yikes,Nicki Minaj
-2020-02-22,Know Your Worth,Khalid x Disclosure
+2020-02-22,Know Your Worth,Khalid Disclosure
 2020-02-22,Blueberry Faygo,Lil Mosey
 2020-02-22,Run,Joji
+2020-02-22,Rodeo,Lil Nas   Cardi B Or Nas
 2020-02-22,KEII,Anuel AA
 2020-02-22,Believe,Meek Mill  Justin Timberlake
 2020-02-22,Whats Poppin,Jack Harlow  DaBaby  Tory Lanez   Lil Wayne
@@ -742,19 +761,20 @@ date,track,artist
 2020-03-14,La Dificil,Bad Bunny
 2020-03-14,PTSD,G Herbo  Chance The Rapper  Juice WRLD   Lil Uzi Vert
 2020-03-14,Grace,Lil Baby   42 Dugg
-2020-03-14,La Santa,Bad Bunny X Daddy Yankee
+2020-03-14,La Santa,Bad Bunny Daddy Yankee
 2020-03-14,Get Ugly,Lil Baby
 2020-03-14,No Sucker,Lil Baby   Moneybagg Yo
 2020-03-14,How,Lil Baby
-2020-03-14,The Other Side,SZA X Justin Timberlake
+2020-03-14,The Other Side,SZA Justin Timberlake
 2020-03-14,Pero Ya No,Bad Bunny
+2020-03-14,Forever,Lil Baby  Lil Wayne
 2020-03-14,Yo Perreo Sola,Bad Bunny
 2020-03-14,Same Thing,Lil Baby
 2020-03-14,Safaera,Bad Bunny  Jowell   Randy   Nengo Flow
 2020-03-14,Bichiyal,Bad Bunny   Yaviah
 2020-03-14,We Should,Lil Baby   Young Thug
 2020-03-14,Solia,Bad Bunny
-2020-03-14,Esta Cabron Ser Yo,Bad Bunny X Anuel AA
+2020-03-14,Esta Cabron Ser Yo,Bad Bunny Anuel AA
 2020-03-14,Sunday Best,Surfaces
 2020-03-14,Can t Explain,Lil Baby
 2020-03-21,Baby Pluto,Lil Uzi Vert
@@ -808,10 +828,11 @@ date,track,artist
 2020-04-04,Escape From LA,The Weeknd
 2020-04-04,Save Your Tears,The Weeknd
 2020-04-04,Faith,The Weeknd
+2020-04-04,Roses,SAINt JHN
 2020-04-04,Repeat After Me  Interlude,The Weeknd
 2020-04-04,Until I Bleed Out,The Weeknd
 2020-04-04,Walk Em Down,NLE Choppa  Roddy Ricch
-2020-04-04,The Other Girl,Kelsea Ballerini x Halsey
+2020-04-04,The Other Girl,Kelsea Ballerini Halsey
 2020-04-11,Turks,NAV  Gunna   Travis Scott
 2020-04-11,Break My Heart,Dua Lipa
 2020-04-11,Believe It,PARTYNEXTDOOR   Rihanna
@@ -836,8 +857,9 @@ date,track,artist
 2020-04-18,No Weakness,Rod Wave
 2020-04-25,Level Of Concern,twenty one pilots
 2020-04-25,Stupid Again,Tory Lanez
+2020-04-25,Boyfriend,Selena Gomez
 2020-04-25,Broke In A Minute,Tory Lanez
-2020-04-25,Sigues Con El,Arcangel x Sech
+2020-04-25,Sigues Con El,Arcangel Sech
 2020-04-25,Die From A Broken Heart,Maddie   Tae
 2020-04-25,DND,Polo G
 2020-04-25,In Between,Scotty McCreery
@@ -846,7 +868,7 @@ date,track,artist
 2020-04-25,Boss Bitch,Doja Cat
 2020-05-02,Rockstar,DaBaby  Roddy Ricch
 2020-05-02,Jump,DaBaby  YoungBoy Never Broke Again
-2020-05-02,%40 MEH,Playboi Carti
+2020-05-02,MEH,Playboi Carti
 2020-05-02,I m Ready,Sam Smith   Demi Lovato
 2020-05-02,PICK UP,DaBaby  Quavo
 2020-05-02,NASTY,DaBaby  Ashanti   Megan Thee Stallion
@@ -926,6 +948,7 @@ date,track,artist
 2020-05-30,Don t Believe The Hype,Polo G
 2020-05-30,Beautiful Pain  Losin My Mind,Polo G
 2020-05-30,33,Polo G
+2020-05-30,I Know,Polo G
 2020-06-06,Rain On Me,Lady Gaga   Ariana Grande
 2020-06-06,Dollaz On My Head,Gunna  Young Thug
 2020-06-06,Cooler Than A Bitch,Gunna  Roddy Ricch
@@ -967,8 +990,8 @@ date,track,artist
 2020-06-27,Shotta Flow 5,NLE Choppa
 2020-06-27,Snow On Tha Bluff,J. Cole
 2020-06-27,Tommy Lee,Tyla Yaweh   Post Malone
-2020-06-27,Savage Love  Laxed - Siren Beat,Jawsh 685 x Jason Derulo
-2020-06-27,Do It,Chloe X Halle
+2020-06-27,Savage Love  Laxed - Siren Beat,Jawsh 685 Jason Derulo
+2020-06-27,Do It,Chloe Halle
 2020-06-27,Done,Chris Janson
 2020-06-27,The Man Who Loves You The Most,Zac Brown Band
 2020-06-27,Need Me,J.I The Prince Of N.Y
@@ -982,7 +1005,7 @@ date,track,artist
 2020-07-11,How You Like That,BLACKPINK
 2020-07-11,Wash Us In The Blood,Kanye West  Travis Scott
 2020-07-11,Know My Rights,6LACK  Lil Baby
-2020-07-11,Past Life,Trevor Daniel x Selena Gomez
+2020-07-11,Past Life,Trevor Daniel Selena Gomez
 2020-07-11,Stick That In Your Country Song,Eric Church
 2020-07-11,Lovin  On You,Luke Combs
 2020-07-11,Rags2Riches,Rod Wave  ATR Son Son
@@ -995,6 +1018,7 @@ date,track,artist
 2020-07-18,44 Bulldog,Pop Smoke
 2020-07-18,Something Special,Pop Smoke
 2020-07-18,Yea Yea,Pop Smoke
+2020-07-18,Mood Swings,Pop Smoke  Lil Tjay
 2020-07-18,What You Know Bout Love,Pop Smoke
 2020-07-18,Snitchin,Pop Smoke  Quavo   Future
 2020-07-18,Bad Bitch From Tokyo  Intro,Pop Smoke
@@ -1002,11 +1026,11 @@ date,track,artist
 2020-07-18,Creature,Pop Smoke  Swae Lee
 2020-07-18,Said Sum,Moneybagg Yo
 2020-07-18,West Coast Shit,Pop Smoke  Tyga   Quavo
-2020-07-18,Life s A Mess,Juice WRLD X Halsey
+2020-07-18,Life s A Mess,Juice WRLD Halsey
 2020-07-18,Diana,Pop Smoke  King Combs
 2020-07-18,Tunnel Vision  Outro,Pop Smoke
 2020-07-18,YaYa,6ix9ine
-2020-07-25,Come   Go,Juice WRLD x Marshmello
+2020-07-25,Come   Go,Juice WRLD Marshmello
 2020-07-25,Wishing Well,Juice WRLD
 2020-07-25,Conversations,Juice WRLD
 2020-07-25,Hate The Other Side,Juice WRLD   Marshmello  Polo G   The Kid LAROI
@@ -1029,6 +1053,7 @@ date,track,artist
 2020-08-01,Greece,DJ Khaled  Drake
 2020-08-01,Breaking Me,Topic   A7S
 2020-08-01,The Climb Back,J. Cole
+2020-08-08,Cardigan,Taylor Swift
 2020-08-08,The 1,Taylor Swift
 2020-08-08,Exile,Taylor Swift  Bon Iver
 2020-08-08,The Last Great American Dynasty,Taylor Swift
@@ -1052,16 +1077,16 @@ date,track,artist
 2020-08-15,My Future,Billie Eilish
 2020-08-15,Move Ya Hips,A$AP Ferg  Nicki Minaj   MadeinTYO
 2020-08-15,I Should Probably Go To Bed,Dan   Shay
-2020-08-15,No Dribble,DaBaby x Stunna 4 Vegas
+2020-08-15,No Dribble,DaBaby Stunna 4 Vegas
 2020-08-22,WAP,Cardi B  Megan Thee Stallion
 2020-08-22,Smile,Juice WRLD   The Weeknd
 2020-08-22,Letter From Houston,Rod Wave
 2020-08-22,Kings   Queens,Ava Max
-2020-08-22,My Ex s Best Friend,Machine Gun Kelly X blackbear
+2020-08-22,My Ex s Best Friend,Machine Gun Kelly blackbear
 2020-08-22,Mood,24kGoldn  iann dior
 2020-08-22,Freestyle,Rod Wave
 2020-08-22,Some Girls,Jameson Rodgers
-2020-08-22,La Jeepeta,Nio Garcia x Anuel AA x Myke Towers x Brray x Juanka
+2020-08-22,La Jeepeta,Nio Garcia Anuel AA Myke Towers Brray Juanka
 2020-08-22,B tch From da Souf,Mulatto
 2020-08-29,Laugh Now Cry Later,Drake  Lil Durk
 2020-08-29,7 Summers,Morgan Wallen
@@ -1070,15 +1095,16 @@ date,track,artist
 2020-08-29,Heather,Conan Gray
 2020-08-29,Lemonade,Internet Money   Gunna  Don Toliver   NAV
 2020-08-29,24,Money Man  Lil Baby
-2020-08-29,Caramelo,Ozuna x Karol G x Myke Towers
+2020-08-29,Caramelo,Ozuna Karol G Myke Towers
 2020-08-29,Lonely If You Are,Chase Rice
 2020-09-05,Dynamite,BTS
 2020-09-05,The Plan,Travis Scott
 2020-09-05,Hawai,Maluma   The Weeknd
+2020-09-05,All In,YoungBoy Never Broke Again
 2020-09-05,You Broke Me First.,Tate McRae
 2020-09-05,Spicy,Nas  Fivio Foreign   A$AP Ferg
-2020-09-12,Ice Cream,BLACKPINK X Selena Gomez
-2020-09-12,Over Now,Calvin Harris X The Weeknd
+2020-09-12,Ice Cream,BLACKPINK Selena Gomez
+2020-09-12,Over Now,Calvin Harris The Weeknd
 2020-09-12,Starting Over,Chris Stapleton
 2020-09-12,Blastoff,Internet Money  Juice WRLD   Trippie Redd
 2020-09-12,Expensive,Ty Dolla $ign  Nicki Minaj
@@ -1105,6 +1131,7 @@ date,track,artist
 2020-09-26,You Got It,VEDO
 2020-09-26,Dirty Stick,YoungBoy Never Broke Again
 2020-10-03,Holy,Justin Bieber  Chance The Rapper
+2020-10-03,Diamonds,Sam Smith
 2020-10-03,One Too Many,Keith Urban Duet With P nk
 2020-10-03,Without You,Luke Combs  Amanda Shires
 2020-10-03,Dolly,Lil Tecca   Lil Uzi Vert
@@ -1118,6 +1145,7 @@ date,track,artist
 2020-10-10,Epidemic,Polo G
 2020-10-10,Bloody Valentine,Machine Gun Kelly
 2020-10-10,U 2 Luv,Ne-Yo   Jeremih
+2020-10-10,Better,Zayn
 2020-10-10,Drunk Face,Machine Gun Kelly
 2020-10-10,Big  Big Plans,Chris Lane
 2020-10-10,Ay  Dios Mio,Karol G
@@ -1125,7 +1153,7 @@ date,track,artist
 2020-10-10,Put Your Records On,Ritt Momney
 2020-10-10,Money Over Fallouts,Tory Lanez
 2020-10-17,Runnin,21 Savage   Metro Boomin
-2020-10-17,Mr. Right Now,21 Savage   Metro Boomin  Drake
+2020-10-17,Right Now,21 Savage   Metro Boomin  Drake
 2020-10-17,Wonder,Shawn Mendes
 2020-10-17,Glock In My Lap,21 Savage   Metro Boomin
 2020-10-17,Dreams,Fleetwood Mac
@@ -1160,6 +1188,7 @@ date,track,artist
 2020-11-07,Positions,Ariana Grande
 2020-11-07,Forever After All,Luke Combs
 2020-11-07,Tyler Herro,Jack Harlow
+2020-11-07,Spicy,Ty Dolla $ign  Post Malone
 2020-11-07,The Other Guy,Luke Combs
 2020-11-07,Damage,H.E.R.
 2020-11-07,Back To The Streets,Saweetie  Jhene Aiko
@@ -1167,7 +1196,7 @@ date,track,artist
 2020-11-07,Cold As You,Luke Combs
 2020-11-07,Practice,DaBaby
 2020-11-07,La Toxica,Farruko
-2020-11-07,Head   Heart,Joel Corry X MNEK
+2020-11-07,Head   Heart,Joel Corry MNEK
 2020-11-07,Wine  Beer  Whiskey,Little Big Town
 2020-11-14,34 35,Ariana Grande
 2020-11-14,Dakiti,Bad Bunny   Jhay Cortez
@@ -1214,6 +1243,8 @@ date,track,artist
 2020-11-28,Rockstar Chainz,Future
 2020-11-28,Bought A Bad Bitch,Future   Lil Uzi Vert
 2020-12-05,Life Goes On,BTS
+2020-12-05,Monster,Shawn Mendes   Justin Bieber
+2020-12-05,Body,Megan Thee Stallion
 2020-12-05,Blue   Grey,BTS
 2020-12-05,Stay,BTS
 2020-12-05,Somebody s Problem,Morgan Wallen
@@ -1227,8 +1258,10 @@ date,track,artist
 2020-12-05,Livin  The Dream,Morgan Wallen
 2020-12-05,Pain Away,Meek Mill  Lil Durk
 2020-12-05,Do It On The Tip,Megan Thee Stallion  City Girls   Hot Girl Meg
+2020-12-05,Circles,Megan Thee Stallion
 2020-12-05,Bichota,Karol G
 2020-12-05,Cover Me Up,Morgan Wallen
+2020-12-12,It s Beginning To Look A Lot Like Christmas,Michael Buble
 2020-12-12,La Noche de Anoche,Bad Bunny   ROSALIA
 2020-12-12,Te Mudaste,Bad Bunny
 2020-12-12,Yo Visto Asi,Bad Bunny
@@ -1239,6 +1272,7 @@ date,track,artist
 2020-12-12,Booker T,Bad Bunny
 2020-12-12,El Mundo Es Mio,Bad Bunny
 2020-12-12,Hoy Cobre,Bad Bunny
+2020-12-12,Rockin  Around The Christmas Tree,Justin Bieber
 2020-12-12,Maldita Pobreza,Bad Bunny
 2020-12-12,La Droga,Bad Bunny
 2020-12-12,Favorite Time Of Year,Carrie Underwood
@@ -1246,7 +1280,8 @@ date,track,artist
 2020-12-19,Santa Tell Me,Ariana Grande
 2020-12-19,Errbody,Lil Baby
 2020-12-19,Wonderful Christmastime,Paul McCartney
-2020-12-19,Real Shit,Juice WRLD x Benny Blanco
+2020-12-19,Without You,The Kid LAROI
+2020-12-19,Real Shit,Juice WRLD Benny Blanco
 2020-12-19,Oh Santa,Mariah Carey  Ariana Grande   Jennifer Hudson
 2020-12-19,Take Me Home For Christmas,Dan   Shay
 2020-12-19,Hallelujah,Carrie Underwood   John Legend
@@ -1271,7 +1306,7 @@ date,track,artist
 2020-12-26,Cowboy Like Me,Taylor Swift
 2020-12-26,Way Out,Jack Harlow  Big Sean
 2020-12-26,Marjorie,Taylor Swift
-2020-12-26,Mr. Solo Dolo III,Kid Cudi
+2020-12-26,Solo Dolo III,Kid Cudi
 2020-12-26,Dive,Kid Cudi
 2020-12-26,Closure,Taylor Swift
 2020-12-26,Heaven On Earth,Kid Cudi
