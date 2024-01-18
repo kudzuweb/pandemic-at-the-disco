@@ -15,7 +15,9 @@ fullmaster <- read_csv('../data/fullmasterfinal.csv')
 ```
 # plot avg valence distribution each month
 ```{r}
-
+fullmaster |>
+  group_by(year, month) |>
+  summarize(avgvalence = mean(valence))
 ```
 
 
